@@ -80,7 +80,7 @@ BATS := $(BIN)/bats
 #
 WWW_SITE		:= anax.webbprogrammering.se
 WWW_LOCAL		:= local.$(WWW_SITE)
-SERVER_ADMIN 	:= mos@webbprogrammering.se
+SERVER_ADMIN 	:= mos@$(WWW_SITE)
 BASE_URL    	:= https://$(WWW_SITE)/
 
 GIT_BASE 		:= git/$(WWW_SITE)
