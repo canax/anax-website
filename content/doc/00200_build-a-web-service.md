@@ -11,5 +11,6 @@ Build a web service
 Some examples on how to get going to build a web service using Anax.
 
 * Flat file website
-* Login
+* A search engine
+* Login and authentication
 * REST server
