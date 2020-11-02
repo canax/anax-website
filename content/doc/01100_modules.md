@@ -5,7 +5,7 @@ author: mos
 revision:
     "2020-11-02": "(A, mos) First edition."
 ...
-Anax Modules
+Modules
 =======================
 
 Which are the modules.
