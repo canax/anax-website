@@ -19,7 +19,7 @@ return [
             "favicon" => "favicon.ico",
             "bodyClass" => null,
             "htmlClass" => null,
-            "lang" => "sv",
+            "lang" => "en",
             "stylesheets" => [
                 //"css/style.css",
                 "css/dbwebb-se_v2.min.css",

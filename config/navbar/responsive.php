@@ -16,6 +16,11 @@ return [
             "title" => "The home page.",
         ],
         [
+            "text" => "Documentation",
+            "url" => "doc",
+            "title" => "Documentation for Anax.",
+        ],
+        [
             "text" => "About",
             "url" => "about",
             "title" => "About this website.",
