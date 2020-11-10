@@ -14,3 +14,5 @@ Some examples on how to get going to build a web service using Anax.
 * A search engine
 * Login and authentication
 * REST server
+    * A small REST server
+    * The REM server

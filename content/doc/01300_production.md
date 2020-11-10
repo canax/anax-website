@@ -5,7 +5,7 @@ author: mos
 revision:
     "2020-11-02": "(A, mos) First edition."
 ...
-Modules
+Production and deployment
 =======================
 
-Which are the modules.
+How to deploy a website to a real production environment.
